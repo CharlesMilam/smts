@@ -1,0 +1,1 @@
+[06-May-2015 14:55:35] PHP Fatal error:  Call to undefined function  add_action() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/widgets/subpages-widget.php on line 13

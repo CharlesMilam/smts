@@ -1,0 +1,1 @@
+[03-Apr-2015 12:03:18 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/scripts/pagination/wp-pagenavi.php on line 32

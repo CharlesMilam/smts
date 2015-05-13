@@ -1,0 +1,51 @@
+tr.myDragClass td {
+    background-color:#999 !important;
+    color:#FFF;
+}
+.tDnD_whileDrag {
+    background-color:#EEEEEE;
+}
+td.showDragHandle {
+    background-image:url("images/move-arrows.png");
+    background-position:center center;
+    background-repeat:no-repeat;
+    cursor:move;
+}
+table.pm-table-slides,
+table.c1-table-slides,
+table.c2-table-slides {
+    width: 100%;
+    padding: 0px;
+    border: none;
+}
+table.pm-table-slides td,
+table.c1-table-slides td,
+table.c2-table-slides td {
+    border: none;
+    background-color: #F4F4F4;
+    padding: 7px;
+}
+tr.row-style {
+    margin: 5px 0;
+    display:block;
+    border: 1px solid #999;
+}
+td.deleteSlide {
+    background: transparent url(images/delete-slide.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+}
+div.add-row {
+    background: transparent url(images/add-slide.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:20px 0 0 10px;
+    width:102px;
+    height:32px;
+}
+div.add-row:hover {
+    background: transparent url(images/add-slide-hover.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:20px 0 0 10px;
+    float:left;
+    width:102px;
+    height:32px;
+}

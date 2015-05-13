@@ -1,0 +1,1651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QualiFire WP Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-30 02:46-0500\n"
+"PO-Revision-Date: 2010-06-30 02:46-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: L:\\qualifire\n"
+
+#: L:\qualifire/404.php:15
+msgid "Oops..., I cannot find that page you are looking for, sorry... (Error 404)"
+msgstr ""
+
+#: L:\qualifire/404.php:18
+msgid "Let me help you find it:"
+msgstr ""
+
+#: L:\qualifire/404.php:21
+msgid "<strong>Search</strong> for it:"
+msgstr ""
+
+#: L:\qualifire/404.php:25
+msgid "<strong>If you typed in a URL...</strong> check the spelling and try reloading the page."
+msgstr ""
+
+#: L:\qualifire/404.php:28
+#, php-format
+msgid "<strong>Start over again</strong> with the %1$sHomepage%2$s."
+msgstr ""
+
+#: L:\qualifire/archive.php:28
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: L:\qualifire/archive.php:47
+#: L:\qualifire/page-Blog.php:68
+msgid "Tags: "
+msgstr ""
+
+#: L:\qualifire/archive.php:47
+#: L:\qualifire/page-Blog.php:68
+msgid "Posted in "
+msgstr ""
+
+#: L:\qualifire/archive.php:47
+#: L:\qualifire/page-Blog.php:68
+msgid "Edit"
+msgstr ""
+
+#: L:\qualifire/archive.php:47
+#: L:\qualifire/page-Blog.php:68
+msgid "Leave a comment"
+msgstr ""
+
+#: L:\qualifire/archive.php:47
+#: L:\qualifire/comments.php:21
+#: L:\qualifire/page-Blog.php:68
+msgid "1 Comment"
+msgstr ""
+
+#: L:\qualifire/archive.php:47
+#: L:\qualifire/comments.php:21
+#: L:\qualifire/page-Blog.php:68
+msgid "% Comments"
+msgstr ""
+
+#: L:\qualifire/archive.php:59
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr ""
+
+#: L:\qualifire/archive.php:61
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr ""
+
+#: L:\qualifire/archive.php:64
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr ""
+
+#: L:\qualifire/archive.php:66
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr ""
+
+#: L:\qualifire/archives.php:25
+msgid "Archive Index Page"
+msgstr ""
+
+#: L:\qualifire/archives.php:28
+#: L:\qualifire/image.php:22
+#: L:\qualifire/page-FullWidth.php:18
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: L:\qualifire/archives.php:36
+msgid "Archives by Year:"
+msgstr ""
+
+#: L:\qualifire/archives.php:41
+msgid "Archives by Month:"
+msgstr ""
+
+#: L:\qualifire/archives.php:46
+msgid "Archives by Subject:"
+msgstr ""
+
+#: L:\qualifire/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: L:\qualifire/comments.php:21
+msgid "No Responses"
+msgstr ""
+
+#: L:\qualifire/comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: L:\qualifire/comments.php:57
+msgid "Leave a Reply"
+msgstr ""
+
+#: L:\qualifire/comments.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: L:\qualifire/comments.php:64
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr ""
+
+#: L:\qualifire/comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr ""
+
+#: L:\qualifire/comments.php:71
+msgid "Log out of this account"
+msgstr ""
+
+#: L:\qualifire/comments.php:71
+msgid "Log out &raquo;"
+msgstr ""
+
+#: L:\qualifire/comments.php:76
+#: L:\qualifire/page-Contact.php:182
+msgid "Name"
+msgstr ""
+
+#: L:\qualifire/comments.php:76
+#: L:\qualifire/comments.php:79
+#: L:\qualifire/page-Contact.php:187
+#: L:\qualifire/page-Contact.php:199
+msgid "(required)"
+msgstr ""
+
+#: L:\qualifire/comments.php:79
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: L:\qualifire/comments.php:82
+msgid "Website"
+msgstr ""
+
+#: L:\qualifire/comments.php:90
+msgid "Submit Comment"
+msgstr ""
+
+#: L:\qualifire/footer.php:112
+msgid " is proudly powered by <a href=\"http://wordpress.org/\"><strong>WordPress</strong></a>"
+msgstr ""
+
+#: L:\qualifire/footer.php:115
+#: L:\qualifire/header.php:119
+msgid "Entries (RSS)"
+msgstr ""
+
+#: L:\qualifire/footer.php:118
+msgid "Comments (RSS)"
+msgstr ""
+
+#: L:\qualifire/footer.php:123
+msgid "Back to Top"
+msgstr ""
+
+#: L:\qualifire/functions.php:82
+msgid "Primary Navigation"
+msgstr ""
+
+#: L:\qualifire/functions.php:102
+msgid "Home"
+msgstr ""
+
+#: L:\qualifire/functions.php:225
+#, php-format
+msgid "<span class=\"time\">%1$s</span> on <a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+msgstr ""
+
+#: L:\qualifire/functions.php:225
+msgid "g:i a"
+msgstr ""
+
+#: L:\qualifire/functions.php:225
+msgid "F j, Y"
+msgstr ""
+
+#: L:\qualifire/functions.php:226
+msgid "edit"
+msgstr ""
+
+#: L:\qualifire/functions.php:233
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: L:\qualifire/functions.php:274
+#: L:\qualifire/functions.php:294
+#: L:\qualifire/page-Portfolio.php:106
+msgid "Read more..."
+msgstr ""
+
+#: L:\qualifire/functions.php:433
+msgid "A widget area, used as a sidebar for regular pages."
+msgstr ""
+
+#: L:\qualifire/functions.php:442
+msgid "A widget area, used as a sidebar for the Portfolio section."
+msgstr ""
+
+#: L:\qualifire/functions.php:451
+msgid "A widget area, used as a sidebar for the Blog/News section."
+msgstr ""
+
+#: L:\qualifire/functions.php:460
+msgid "A widget area, used as a sidebar for the Contact page."
+msgstr ""
+
+#: L:\qualifire/functions.php:469
+msgid "Home Page Before Content"
+msgstr ""
+
+#: L:\qualifire/functions.php:471
+msgid "A widget area positioned just above the Home Page Main Content area."
+msgstr ""
+
+#: L:\qualifire/functions.php:480
+#: L:\qualifire/qualifire_options_page.php:533
+#: L:\qualifire/qualifire_options_page.php:536
+msgid "Home Page Column 1"
+msgstr ""
+
+#: L:\qualifire/functions.php:482
+msgid "A widget area, used as the 1st column in the Main Content area."
+msgstr ""
+
+#: L:\qualifire/functions.php:490
+msgid "Home Page Column 2"
+msgstr ""
+
+#: L:\qualifire/functions.php:492
+msgid "A widget area, used as the 2nd column in the Main Content area."
+msgstr ""
+
+#: L:\qualifire/functions.php:500
+msgid "Home Page Column 3"
+msgstr ""
+
+#: L:\qualifire/functions.php:502
+msgid "A widget area, used as the 3rd column in the Main Content area."
+msgstr ""
+
+#: L:\qualifire/functions.php:511
+msgid "Bottom 1"
+msgstr ""
+
+#: L:\qualifire/functions.php:513
+msgid "A widget area, used as the 1st column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: L:\qualifire/functions.php:521
+msgid "Bottom 2"
+msgstr ""
+
+#: L:\qualifire/functions.php:523
+msgid "A widget area, used as the 2nd column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: L:\qualifire/functions.php:531
+msgid "Bottom 3"
+msgstr ""
+
+#: L:\qualifire/functions.php:533
+msgid "A widget area, used as the 3rd column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: L:\qualifire/functions.php:541
+msgid "Bottom 4"
+msgstr ""
+
+#: L:\qualifire/functions.php:543
+msgid "A widget area, used as the 4th column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: L:\qualifire/header.php:96
+msgid "Search..."
+msgstr ""
+
+#: L:\qualifire/header.php:167
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr ""
+
+#: L:\qualifire/header.php:169
+#, php-format
+msgid "Search Results for &#8216;<em>%s</em>&#8216;"
+msgstr ""
+
+#: L:\qualifire/header.php:171
+msgid "Page Not Found (Error 404)"
+msgstr ""
+
+#: L:\qualifire/header.php:173
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr ""
+
+#: L:\qualifire/header.php:175
+#: L:\qualifire/header.php:177
+#: L:\qualifire/header.php:179
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: L:\qualifire/header.php:181
+msgid "Author Archive"
+msgstr ""
+
+#: L:\qualifire/header.php:183
+msgid "Blog Archives"
+msgstr ""
+
+#: L:\qualifire/image.php:35
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: L:\qualifire/page-Blog.php:79
+msgid "Not Found"
+msgstr ""
+
+#: L:\qualifire/page-Blog.php:80
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:46
+msgid "Please enter a name"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:48
+msgid "Your name must consist of at least 2 characters"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:52
+#: L:\qualifire/page-Contact.php:54
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:59
+msgid "phone number"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:62
+msgid "extension"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:66
+#, php-format
+msgid "Please enter a valid %1$s and %2$s"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:68
+#: L:\qualifire/page-Contact.php:70
+#, php-format
+msgid "Please enter a valid %s"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:74
+msgid "Please enter your message"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:82
+#, php-format
+msgid "Contact Form submission from %s"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:83
+msgid "Sender's name: "
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:84
+msgid "E-mail: "
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:85
+msgid "Phone: "
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:86
+msgid "Message: "
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:137
+#: L:\qualifire/page-Portfolio.php:143
+#: L:\qualifire/page.php:19
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:143
+#: L:\qualifire/page-FullWidth.php:24
+#: L:\qualifire/page-Portfolio.php:150
+#: L:\qualifire/page.php:25
+msgid "Edit this entry."
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:167
+msgid "Email Successfully Sent!"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:168
+#, php-format
+msgid "Thank you <strong>%s</strong> for using our contact form! Your email was successfully sent and we will be in touch with you shortly."
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:174
+msgid "Failed to connect to mailserver!"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:180
+msgid "Please use the form below to send us an email:"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:182
+msgid "(required, at least 2 characters)"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:187
+msgid "E-Mail"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:192
+msgid "Phone"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:192
+msgid "(optional)"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:194
+msgid "ext."
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:199
+msgid "Your comment"
+msgstr ""
+
+#: L:\qualifire/page-Contact.php:212
+msgid "Submit"
+msgstr ""
+
+#: L:\qualifire/page-Portfolio.php:34
+#: L:\qualifire/page-Portfolio.php:36
+msgid "All"
+msgstr ""
+
+#: L:\qualifire/page-Portfolio.php:87
+msgid "Preview image not available!."
+msgstr ""
+
+#: L:\qualifire/page-Portfolio.php:130
+msgid "Portfolio section for this page has not been found!"
+msgstr ""
+
+#: L:\qualifire/page-Portfolio.php:131
+msgid "<strong>Reason:</strong> No category has been assigned as Portfolio section for this page yet. In order to fix this, go to the theme's options page and assign a category for this page."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:140
+msgid "QualiFire Options"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:171
+msgid "Theme Layout"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:172
+msgid "Help"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:173
+msgid "General Options"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:174
+msgid "Front Page Sliders"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:175
+msgid "Portfolio Section"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:176
+msgid "Blog Section"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:177
+msgid "Contact Page"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:178
+msgid "Footer Options"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:179
+msgid "Statistics"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:188
+msgid "Settings saved."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:209
+#: L:\qualifire/qualifire_options_page.php:212
+msgid "Reset to defaults"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:217
+msgid "Save Changes"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:379
+msgid "Cheatin' uh?"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:409
+msgid "Choose a color scheme:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:412
+msgid "Style 1 (Black)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:413
+msgid "Style 2 (Red)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:414
+msgid "Style 3 (Olive)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:415
+msgid "Style 4 (Blue)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:416
+msgid "Style 5 (Grey)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:417
+msgid "Style 6 (Orange)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:418
+msgid "Style 7 (Lavender)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:419
+msgid "Style 8 (Tan)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:420
+msgid "Style 9 (Midnight Blue)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:426
+msgid "QualiFire theme help resources:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:428
+msgid "Documentation"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:429
+msgid "Documentation (new widnow)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:430
+msgid "QualiFire Demo Site"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:431
+msgid "QualiFire Typography"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:432
+msgid "Contact Us"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:445
+msgid "Custom Logo"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:447
+msgid "Enter a URL or upload an image for your logo:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:449
+msgid "Upload Logo"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:453
+msgid "Logo Dimensions"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:458
+msgid "(Width X Height) in pixels."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:459
+msgid "Note: the maximum designated space for the logo is 560px by 90px."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:463
+msgid "Slogan Position from the Top"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:466
+msgid "from the top. Enter a number between 0 and 100."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:470
+msgid "Slogan Position from the Left"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:473
+msgid "from the left. Enter a number between 0 and 400."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:474
+#, php-format
+msgid "Please note that the actual Slogan text can be changed or deleted at %1$sSettings -> General%2$s <strong>Tagline</strong> option."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:478
+msgid "Phone Number Information"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:481
+msgid "Use this field to provide a phone number or any other short piece of information (30 character limit for display).  It is displayed just under the search box located at the top right corner of the theme."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:485
+msgid "Exclude Pages From Menu"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:487
+msgid "Please select the page(s) you would like to be excluded from the top navigation menu. This option will NOT affect the settings in the new WP 3.0 \"Appearances -> Menus\" option."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:493
+msgid "page ID:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:496
+msgid "Keep in mind that if you exclude a page that has descendants (children pages), they will automatically be excluded from the menu as well!"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:500
+#: L:\qualifire/qualifire_options_page.php:502
+msgid "Login Link in the Menu"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:505
+msgid "Show Login/Logout link in the Navigation menu?"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:511
+#: L:\qualifire/qualifire_options_page.php:513
+msgid "RSS icon in the Menu"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:516
+msgid "Show RSS icon in the Navigation menu?"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:522
+msgid "Breadcrumbs"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:524
+#: L:\qualifire/qualifire_options_page.php:527
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:535
+msgid "Please choose whether you would like to have the Widget Area \"Home Page Column 1\" fixed width:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:539
+msgid "Fixed width"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:545
+msgid "Default Pages Sidebar Position"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:547
+#: L:\qualifire/qualifire_options_page.php:1332
+#: L:\qualifire/qualifire_options_page.php:1348
+#: L:\qualifire/qualifire_options_page.php:1400
+#: L:\qualifire/qualifire_options_page.php:1482
+msgid "Choose position:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:548
+#: L:\qualifire/qualifire_options_page.php:1349
+#: L:\qualifire/qualifire_options_page.php:1401
+#: L:\qualifire/qualifire_options_page.php:1483
+msgid "Left"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:549
+#: L:\qualifire/qualifire_options_page.php:1350
+#: L:\qualifire/qualifire_options_page.php:1402
+#: L:\qualifire/qualifire_options_page.php:1484
+msgid "Right"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:550
+msgid "This is the sidebar shown on all pages"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:554
+msgid "Excerpt Length"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:556
+msgid "Change the excerpt length:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:557
+msgid "Shorten or lengthen the excerpt to suite your personal needs. The number refers to the first number of words from a post."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:561
+msgid "Excerpt More Phrase"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:563
+msgid "Change the phrase"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:565
+msgid "This is the excerpt's 'Read more..' link. Change it to anything you'd like..."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:578
+msgid "Current Slider"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:580
+msgid "Choose a slider:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:581
+msgid "Piecemaker"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:582
+msgid "Cycle 1 (full width image)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:583
+msgid "Cycle 2 (image with text)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:584
+msgid "No Slider"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:584
+msgid "(Remove slider from home page completely)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:587
+msgid "Save & Activate"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:590
+msgid "Continue with the section below to customize the slider..."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:625
+msgid "Piecemaker Slider Settings:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:629
+#: L:\qualifire/qualifire_options_page.php:877
+msgid "Image Width"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:632
+#: L:\qualifire/qualifire_options_page.php:880
+msgid "The width of the images to be loaded."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:636
+#: L:\qualifire/qualifire_options_page.php:884
+msgid "Image Height"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:639
+#: L:\qualifire/qualifire_options_page.php:887
+msgid "The height of the images to be loaded."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:643
+msgid "Number of segments"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:646
+msgid "Number of segments, in which the images will be sliced."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:650
+msgid "Tween Time"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:653
+msgid "Number of seconds for each element to be turned."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:657
+msgid "Tween Delay"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:660
+msgid "Number of seconds from one element starting to turn to the next element starting."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:664
+msgid "Tween Type"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:709
+#, php-format
+msgid "Type of transition from Caurina&#39;s Tweener class. Find all possible transition types and more information about Tweener in the official %1$sdocumentation%2$s."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:713
+msgid "Z Distance"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:716
+msgid "To which extend are the cubes moved on z axis when being tweened. Negative values bring the cube closer to the camera, positive values take it further away. A good range is roughly between -200 and 700."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:720
+msgid "Expand"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:723
+msgid "To which extend are the cubes moved away from each other when tweening."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:727
+msgid "Shadow Darkness"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:730
+msgid "To which extend are the sides shadowed, when the elements are tweening and the sided move towards the background. 100 is black, 0 is no darkening."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:734
+msgid "Autoplay"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:737
+msgid "Number of seconds to the next image."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:741
+msgid "Text Distance"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:744
+msgid "Distance of the info text to the borders of its background."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:748
+#: L:\qualifire/qualifire_options_page.php:750
+#: L:\qualifire/qualifire_options_page.php:916
+#: L:\qualifire/qualifire_options_page.php:918
+msgid "3D Shadow"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:753
+msgid "Remove the 3D shadow under the slider</span>"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:764
+msgid "Text Background"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:772
+msgid "Description text background"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:776
+msgid "Inner Color"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:784
+msgid "Sides color of the sliced elements"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:800
+#: L:\qualifire/qualifire_options_page.php:826
+msgid "Edit the info text, erase all for none:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:804
+#: L:\qualifire/qualifire_options_page.php:830
+msgid "Study the above text for slider's specific syntax"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:807
+#: L:\qualifire/qualifire_options_page.php:833
+msgid "Upload Slide:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:847
+msgid "No JavaScript image"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:849
+msgid "Paste the full path to your image:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:851
+msgid "In the case when JavaScript is disabled the 1st slider image is displayed by default in place of the Piecemaker slider, you may change that in here"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:873
+msgid "Cycle 1 Slider Settings:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:891
+#: L:\qualifire/qualifire_options_page.php:1075
+msgid "Transition Speed"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:894
+#: L:\qualifire/qualifire_options_page.php:1078
+msgid "Speed of the transition."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:898
+#: L:\qualifire/qualifire_options_page.php:1082
+msgid "Timeout"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:901
+#: L:\qualifire/qualifire_options_page.php:1085
+msgid "Milliseconds between slide transitions (0 to disable auto advance)."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:905
+#: L:\qualifire/qualifire_options_page.php:907
+#: L:\qualifire/qualifire_options_page.php:1089
+#: L:\qualifire/qualifire_options_page.php:1091
+msgid "Sync"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:910
+#: L:\qualifire/qualifire_options_page.php:1094
+msgid "Toggle this option to see how some effects behave differently (such as blind, curtain, and zoom)."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:921
+msgid "Remove the 3D shadow under the slider"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:940
+#: L:\qualifire/qualifire_options_page.php:1002
+msgid "Slide Image:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:976
+#: L:\qualifire/qualifire_options_page.php:1038
+msgid "Transition effect."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:980
+#: L:\qualifire/qualifire_options_page.php:1042
+#: L:\qualifire/qualifire_options_page.php:1183
+#: L:\qualifire/qualifire_options_page.php:1258
+msgid "Link:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:983
+#: L:\qualifire/qualifire_options_page.php:1045
+#: L:\qualifire/qualifire_options_page.php:1186
+#: L:\qualifire/qualifire_options_page.php:1261
+msgid "Target: "
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:985
+#: L:\qualifire/qualifire_options_page.php:1047
+#: L:\qualifire/qualifire_options_page.php:1188
+#: L:\qualifire/qualifire_options_page.php:1263
+msgid "self"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:986
+#: L:\qualifire/qualifire_options_page.php:1048
+#: L:\qualifire/qualifire_options_page.php:1189
+#: L:\qualifire/qualifire_options_page.php:1264
+msgid "blank"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1071
+msgid "Cycle 2 Slider Settings:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1100
+#: L:\qualifire/qualifire_options_page.php:1102
+msgid "Enable Transition on Text"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1105
+msgid "Toggle this option to enable/disable the transition effect on the info text. If disabled (unchecked) then the text will disapear for the duration of the transition."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1116
+msgid "Text Color"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1124
+msgid "Description text color"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1142
+#: L:\qualifire/qualifire_options_page.php:1217
+msgid "Image:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1150
+#: L:\qualifire/qualifire_options_page.php:1225
+msgid "Transition:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1194
+#: L:\qualifire/qualifire_options_page.php:1269
+msgid "Slide text"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1194
+#: L:\qualifire/qualifire_options_page.php:1269
+msgid "(You could use text and/or html)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1200
+#: L:\qualifire/qualifire_options_page.php:1275
+msgid "Button Text:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1202
+#: L:\qualifire/qualifire_options_page.php:1277
+msgid "The button is activated only if a <strong>Link</strong> is provided."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1295
+msgid "No Slider Text"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1297
+msgid "Change the phrase:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1299
+msgid "This is the title text displayed in the place of the slider on the home page"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1313
+msgid "Portfolio Pages"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1315
+msgid "Use this area to assign Portfolio Categories to their respective Portfolio pages."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1316
+msgid "Firstly though, you have to create the Portfolio page(s) and assign the \"Portfolio page\" template to it."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1317
+msgid "If you don't see any categories in the dropdown(s) below it's because you haven't created any yet, in that case go go 'Posts -> Categories' and create a 'Portfolio' category there. Also don't forget to save all your Portfolio related Posts and sub categories under that category."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1322
+msgid "To Portfolio page"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1323
+msgid "assign the Category:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1324
+msgid "with"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1324
+msgid "items per page."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1330
+msgid "Portfolio Title Position"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1333
+msgid "Below"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1334
+msgid "Above"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1335
+msgid "This is the post title shown with every thumbnail. Choose whether you would like to have it displayed above the Thumbnail or just below it."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1342
+msgid "The following settings refer to the individual portfolio item post which is usually accessed by slicking on a portfoilo item title or \"read more...\" link (if present)."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1346
+#: L:\qualifire/qualifire_options_page.php:1398
+#: L:\qualifire/qualifire_options_page.php:1481
+msgid "Sidebar Position"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1351
+msgid "This is the sidebar shown on individual portflio items' posts"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1355
+#: L:\qualifire/qualifire_options_page.php:1357
+msgid "Portfolio Post Date"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1360
+msgid "Show the date located at the top right corner next to the Post title (Single View)."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1366
+#: L:\qualifire/qualifire_options_page.php:1368
+msgid "Portfolio Post Metadata"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1371
+msgid "Show Portfolio Post Metadata box (Single View)."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1372
+msgid "This is the info box situated right under the post and just above the comments area."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1378
+#: L:\qualifire/qualifire_options_page.php:1380
+msgid "Show Comment Area"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1383
+msgid "Show comment area in Portfolio posts (Single View)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1403
+msgid "This is the sidebar shown on blog pages"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1407
+msgid "\"Read more\" Button"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1410
+msgid "Enter the text for the post's 'Read more' button.  Leave blank to hide the button."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1414
+#: L:\qualifire/qualifire_options_page.php:1416
+msgid "Exclude Portfolio(s) from Blog"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1419
+msgid "Exclude Portfolio section(s) related posts from showing in the the general Blog section (\"Blog page\" template loop)."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1420
+msgid "Note: Portfolio posts are those that have been assigned to a portfolio related category. A portfolio related category is one which either directly or indireclty (parent or descendant) has been assigned to a \"Portfolio page\" template (see the \"Portfolio section above for these assignments)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1448
+msgid "Enable Business Contact"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1449
+msgid "Enable Contact Info Fields"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1452
+msgid "Enable the Business Contact fields (see below for description)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1455
+msgid "Business Contact Fields"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1457
+msgid "The Business Contact Fields provide a way to better display additional contact information such as Company Name, Address, Phone, etc. An example of a Field pair could be <strong>Telephone: (123) 123-4567</strong>, where you would enter the \"<strong>Telephone:</strong>\" part in the first field and \"<strong>(123) 123-4567</strong>\" in the second (under the same \"Line #\") respectively."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1458
+msgid "Line 1:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1461
+msgid "Line 2:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1464
+msgid "Line 3:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1467
+msgid "Line 4:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1470
+msgid "Line 5:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1473
+msgid "Line 6:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1476
+msgid "Line 7:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1479
+msgid "Some html tags and inline styling could be used for formatting here, e.g."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1485
+msgid "This is the sidebar shown on the Contact page"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1487
+msgid "Phone Number validation"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1488
+msgid "This is the field displayed in the E-mail form on the Contact page template. If checked, the validation for North American phone numbers will be enabled."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1489
+msgid "Enable North American phone number validation"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1492
+msgid "Enable North American phone number validation in the contact email form"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1498
+msgid "E-mail Recipient(s)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1500
+msgid "Please enter recipient's email address, comma-separate multiple recipients:"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1505
+#: L:\qualifire/qualifire_options_page.php:1507
+msgid "Enable ReCAPTCHA"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1510
+#, php-format
+msgid "Add ReCAPTCHA to the email form for extra security (for more information visit %s)"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1512
+msgid "Please note: ReCAPTCHA will be automatically disabled if the two fields below are empty!"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1517
+msgid "ReCAPTCHA Public Key"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1520
+msgid "To use reCAPTCHA you must get an API public key from"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1524
+msgid "ReCAPTCHA Private Key"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1527
+msgid "To use ReCAPTCHA you must get an API private key from"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1528
+msgid "This key is used when communicating between your server and the ReCAPTCHA server. Be sure to keep it a secret."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1532
+msgid "ReCAPTCHA Theme"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1535
+msgid "Choose Theme: "
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1537
+msgid "white"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1538
+msgid "red"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1539
+msgid "blackglass"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1545
+msgid "ReCAPTCHA Language"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1548
+msgid "Language: "
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1574
+msgid "Copyright Message"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1578
+msgid "Copyright message displayed in the footer."
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1582
+#: L:\qualifire/qualifire_options_page.php:1584
+msgid "WordPress credits link"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1587
+#, php-format
+msgid "Show \"is proudly powered by %s\" in footer?"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1593
+#: L:\qualifire/qualifire_options_page.php:1595
+msgid "Entries (RSS) link"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1598
+msgid "Show \"Entries (RSS)\" link in footer?"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1604
+#: L:\qualifire/qualifire_options_page.php:1606
+msgid "Comments (RSS) link"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1609
+msgid "Show \"Comments (RSS)\" link in footer?"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1623
+msgid "Google Analytics"
+msgstr ""
+
+#: L:\qualifire/qualifire_options_page.php:1627
+msgid "Paste your Google Analytics or other tracking code here. It will be inserted just before the closing body tag for every page"
+msgstr ""
+
+#: L:\qualifire/search.php:43
+msgid "Didn't find what you were looking for? Refine your search!"
+msgstr ""
+
+#: L:\qualifire/sidebar-BlogSidebar.php:20
+#: L:\qualifire/sidebar-ContactSidebar.php:20
+#: L:\qualifire/sidebar-PortfolioSidebar.php:22
+#: L:\qualifire/sidebar.php:19
+msgid "About This Sidebar"
+msgstr ""
+
+#: L:\qualifire/sidebar-BlogSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearances -> Widgets</em></strong> and place widgets into the <strong><em>BlogSidebar</em></strong> Widget Area"
+msgstr ""
+
+#: L:\qualifire/sidebar-ContactSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearances -> Widgets</em></strong> and place widgets into the <strong><em>ContactSidebar</em></strong> Widget Area"
+msgstr ""
+
+#: L:\qualifire/sidebar-PortfolioSidebar.php:24
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearances -> Widgets</em></strong> and place widgets into the <strong><em>PortfolioSidebar</em></strong> Widget Area"
+msgstr ""
+
+#: L:\qualifire/sidebar.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearances -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar</em></strong> Widget Area"
+msgstr ""
+
+#: L:\qualifire/single-Portfolio.php:41
+#: L:\qualifire/single.php:43
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: L:\qualifire/scripts/breadcrumbs.php:40
+msgid "You are here:"
+msgstr ""
+
+#: L:\qualifire/scripts/breadcrumbs.php:106
+msgid "Author: "
+msgstr ""
+
+#: L:\qualifire/scripts/breadcrumbs.php:108
+msgid "Tag: "
+msgstr ""
+
+#: L:\qualifire/scripts/breadcrumbs.php:110
+msgid "404 - Page not Found"
+msgstr ""
+
+#: L:\qualifire/scripts/breadcrumbs.php:112
+msgid "Search"
+msgstr ""
+
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:35
+msgid "PageNavi"
+msgstr ""
+
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:194
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:197
+msgid "&laquo; First"
+msgstr ""
+
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:198
+msgid "Last &raquo;"
+msgstr ""
+
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:199
+msgid "&raquo;"
+msgstr ""
+
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:200
+msgid "&laquo;"
+msgstr ""
+
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:201
+#: L:\qualifire/scripts/pagination/wp-pagenavi.php:202
+msgid "..."
+msgstr ""
+
+#: L:\qualifire/sliders/cycle/cycle1/cycle1_display.php:14
+msgid "Prev"
+msgstr ""
+
+#: L:\qualifire/sliders/cycle/cycle1/cycle1_display.php:15
+msgid "Next"
+msgstr ""
+
+#: L:\qualifire/sliders/cycle/cycle1/cycle1_display.php:33
+msgid "Play"
+msgstr ""
+
+#: L:\qualifire/sliders/cycle/cycle1/cycle1_display.php:34
+msgid "Pause"
+msgstr ""
+
+#: L:\qualifire/sliders/piecemaker/piecemaker_display.php:11
+msgid "Slider Image"
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:39
+msgid "A list or dropdown of a single category's descendants."
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:45
+msgid "QualiFire: Custom Category"
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:111
+msgid "Categories"
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:116
+#: L:\qualifire/widgets/googleMap-widget.php:100
+#: L:\qualifire/widgets/latestPost-widget.php:120
+#: L:\qualifire/widgets/loginForm-widget.php:133
+#: L:\qualifire/widgets/subpages-widget.php:116
+msgid "Title:"
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:122
+msgid "Category to be displayed:"
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:132
+msgid "Show as dropdown"
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:138
+msgid "Show post counts"
+msgstr ""
+
+#: L:\qualifire/widgets/customCategory-widget.php:144
+msgid "Show hierarchy"
+msgstr ""
+
+#: L:\qualifire/widgets/googleMap-widget.php:39
+msgid "A Google Map widget."
+msgstr ""
+
+#: L:\qualifire/widgets/googleMap-widget.php:45
+msgid "QualiFire: Google Map"
+msgstr ""
+
+#: L:\qualifire/widgets/googleMap-widget.php:95
+msgid "Google Map"
+msgstr ""
+
+#: L:\qualifire/widgets/googleMap-widget.php:105
+msgid "Google Map Code:"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:39
+msgid "The most recent posts with teaser text"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:45
+msgid "QualiFire: Recent Posts"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:115
+msgid "Latest Posts"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:126
+msgid "Pick a specific category:"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:133
+msgid "Number of posts to show:"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:136
+msgid "(at most 15)"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:141
+msgid "Number of posts to skip:"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:144
+msgid "(offset from latest)"
+msgstr ""
+
+#: L:\qualifire/widgets/latestPost-widget.php:151
+msgid "Show date & author info"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:39
+msgid "A user login form."
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:45
+msgid "QualiFire: Login Form"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:69
+msgid "You are logged in as"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:72
+msgid "Logout"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:79
+msgid "User"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:82
+msgid "Password"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:86
+msgid "Login"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:87
+msgid "Remember me"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:94
+msgid "Register"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:96
+msgid "Recover password"
+msgstr ""
+
+#: L:\qualifire/widgets/loginForm-widget.php:128
+msgid "Login Form"
+msgstr ""
+
+#: L:\qualifire/widgets/subpages-widget.php:39
+msgid "Display subpages if present only."
+msgstr ""
+
+#: L:\qualifire/widgets/subpages-widget.php:45
+msgid "QualiFire: Subpages"
+msgstr ""
+
+#: L:\qualifire/widgets/subpages-widget.php:119
+msgid "Leave the Title field blank if you would like to display the parent page Title instead."
+msgstr ""
+
