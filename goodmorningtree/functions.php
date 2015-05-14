@@ -31,12 +31,6 @@ function my_init_scripts() {
     if( !is_admin() ){
 	global $cloud_clarity_options, $current_slider;
 
-	// Cycle 2 Slider Plugin
-	if( $current_slider == '3' ) {
-	    wp_enqueue_script('cycle', get_bloginfo('template_url')."/sliders/cycle/jquery.cycle.all.min.js", array('jquery'), '2.86', false);
-	    wp_enqueue_script('cycle2', get_bloginfo('template_url')."/sliders/cycle/cycle2/cycle2_script.js", array('jquery'), '1.0.0', false);
-	}
-
 	// PrettyPhoto scripts
 	wp_enqueue_script('pretty_photo_lib', get_bloginfo('template_url')."/scripts/prettyPhoto/js/jquery.prettyPhoto.js", array('jquery'), '2.5.6', false);
 	wp_enqueue_script('custom_pretty_photo', get_bloginfo('template_url')."/scripts/prettyPhoto/custom_params.js", array('pretty_photo_lib'), '1.0', true);
