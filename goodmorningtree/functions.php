@@ -31,11 +31,6 @@ function my_init_scripts() {
     if( !is_admin() ){
 	global $cloud_clarity_options, $current_slider;
 
-	// Superfish Dropdown menu scripts
-	wp_enqueue_script('hoverIntent', get_bloginfo('template_url')."/scripts/superfish-1.4.8/js/hoverIntent.js", array('jquery'), '1.0.0', false);
-	wp_enqueue_script('superfish', get_bloginfo('template_url')."/scripts/superfish-1.4.8/js/superfish.js", array('jquery'), '1.4.8', false);
-	wp_enqueue_script('supersubs', get_bloginfo('template_url')."/scripts/superfish-1.4.8/js/supersubs.js", array('jquery'), '0.2.0', false);
-
 	// Miscellaneous JS scripts
 	wp_enqueue_script('scripts', get_bloginfo('template_url')."/scripts/script.js", array('jquery'), '1.0', false);
     }
