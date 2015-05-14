@@ -31,9 +31,6 @@ function my_init_scripts() {
     if( !is_admin() ){
 	global $cloud_clarity_options, $current_slider;
 
-	// jQuery validation script
-	wp_enqueue_script('masked_input_plugin', get_bloginfo('template_url')."/scripts/masked-input-plugin/jquery.maskedinput.min.js", array('jquery'), '1.2.2', false);
-
 	// Superfish Dropdown menu scripts
 	wp_enqueue_script('hoverIntent', get_bloginfo('template_url')."/scripts/superfish-1.4.8/js/hoverIntent.js", array('jquery'), '1.0.0', false);
 	wp_enqueue_script('superfish', get_bloginfo('template_url')."/scripts/superfish-1.4.8/js/superfish.js", array('jquery'), '1.4.8', false);
