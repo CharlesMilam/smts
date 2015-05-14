@@ -18,10 +18,8 @@ function my_init_styles() {
 	wp_enqueue_style('reset', get_bloginfo('template_url') . '/styles/common-css/reset.css', false, '1.0', 'screen');
 	wp_enqueue_style('text', get_bloginfo('template_url') . "/styles/{$style}/css/text.css", false, '1.0', 'screen');
 	wp_enqueue_style('grid-960', get_bloginfo('template_url') . '/styles/common-css/960.css', false, '1.0', 'screen');
-	wp_enqueue_style('superfish_menu', get_bloginfo('template_url') . '/scripts/superfish-1.4.8/css/superfish.css', false, '1.0', 'screen');
 	wp_enqueue_style('pagination', get_bloginfo('template_url') . '/scripts/pagination/pagenavi-css.css', false, '1.0', 'screen');
 	wp_enqueue_style('style', get_bloginfo('template_url') . "/styles/{$style}/css/style.css", false, '1.0', 'screen');
-	wp_enqueue_style('pretty_photo', get_bloginfo('template_url') . '/scripts/prettyPhoto/css/prettyPhoto.css', false, '1.0', 'screen');
     }
 }
 add_action('wp_print_styles', 'my_init_styles');
@@ -32,7 +30,7 @@ function my_init_scripts() {
 	global $cloud_clarity_options, $current_slider;
 
 	// Miscellaneous JS scripts
-	wp_enqueue_script('scripts', get_bloginfo('template_url')."/scripts/script.js", array('jquery'), '1.0', false);
+	wp_enqueue_script('scripts', get_bloginfo('template_url')."/scripts/script.js", array('jquery'), '1.1.0', true);
     }
 }
 add_action('wp_print_scripts', 'my_init_scripts');
