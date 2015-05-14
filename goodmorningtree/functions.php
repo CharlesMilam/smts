@@ -31,10 +31,6 @@ function my_init_scripts() {
     if( !is_admin() ){
 	global $cloud_clarity_options, $current_slider;
 
-	// PrettyPhoto scripts
-	wp_enqueue_script('pretty_photo_lib', get_bloginfo('template_url')."/scripts/prettyPhoto/js/jquery.prettyPhoto.js", array('jquery'), '2.5.6', false);
-	wp_enqueue_script('custom_pretty_photo', get_bloginfo('template_url')."/scripts/prettyPhoto/custom_params.js", array('pretty_photo_lib'), '1.0', true);
-
 	// jQuery validation script
 	wp_enqueue_script('jquery_validate_lib', get_bloginfo('template_url')."/scripts/jquery-validate/jquery.validate.min.js", array('jquery'), '1.6', false);
 	wp_enqueue_script('masked_input_plugin', get_bloginfo('template_url')."/scripts/masked-input-plugin/jquery.maskedinput.min.js", array('jquery'), '1.2.2', false);
