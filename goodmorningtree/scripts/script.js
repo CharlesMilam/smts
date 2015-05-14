@@ -1,5 +1,3 @@
-
-
 // Adds a class 'js_on' to the <html> tag if JavaScript is enabled,
 // also helps remove flickering...
 document.documentElement.className += 'js_on';
