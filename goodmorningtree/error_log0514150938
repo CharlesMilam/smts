@@ -1,0 +1,35 @@
+[27-Nov-2013 01:55:06] PHP Fatal error:  Call to undefined function  get_header() in /home/goodmorn/public_html/wp-content/themes/goodmorningtree/index.php on line 13
+[12-Jun-2014 09:41:49] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[12-Jun-2014 09:41:55] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[24-Jun-2014 14:25:49] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[24-Jun-2014 22:16:10] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[24-Jun-2014 22:16:11] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[24-Jun-2014 22:16:12] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[24-Jun-2014 22:16:12] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[24-Jun-2014 22:16:13] PHP Fatal error:  Call to undefined function  get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[09-Oct-2014 19:38:41 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[11-Mar-2015 23:08:25 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[02-Apr-2015 16:27:06 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[03-Apr-2015 12:03:05 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/elmtree/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[28-Apr-2015 09:28:50] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/page-FullWidth.php on line 11
+[01-May-2015 14:32:08] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 14:49:30] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 14:56:46] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 15:03:10] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 15:25:01] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 15:27:18] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 17:17:34] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/page-FullWidth.php on line 11
+[01-May-2015 18:04:48] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 18:32:11] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 18:36:39] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 19:24:01] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[01-May-2015 22:03:48] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[02-May-2015 09:01:25] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[02-May-2015 15:15:11] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[03-May-2015 15:19:33] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[04-May-2015 08:22:58] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[04-May-2015 13:29:03] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[07-May-2015 07:38:09] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/page-FullWidth.php on line 11
+[07-May-2015 08:18:52] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[12-May-2015 12:58:12] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/index.php on line 7
+[13-May-2015 23:05:03] PHP Fatal error:  Call to undefined function  get_header() in /home4/sidmourn/public_html/wp-content/themes/goodmorningtree/page.php on line 7
