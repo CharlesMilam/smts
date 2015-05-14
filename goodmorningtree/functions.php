@@ -31,16 +31,6 @@ function my_init_scripts() {
     if( !is_admin() ){
 	global $cloud_clarity_options, $current_slider;
 
-	// swfobject scripts
-	if( $current_slider == '1' )
-	    wp_enqueue_script('piecemaker-swfobject', get_bloginfo('template_url')."/sliders/piecemaker/js/swfobject.js", '', '1.5', false);
-
-	// Cycle 1 Slider Plugin
-	if( $current_slider == '2' ) {
-	    wp_enqueue_script('cycle', get_bloginfo('template_url')."/sliders/cycle/jquery.cycle.all.min.js", array('jquery'), '2.86', false);
-	    wp_enqueue_script('cycle1', get_bloginfo('template_url')."/sliders/cycle/cycle1/cycle1_script.js", array('jquery'), '1.0.0', false);
-	}
-
 	// Cycle 2 Slider Plugin
 	if( $current_slider == '3' ) {
 	    wp_enqueue_script('cycle', get_bloginfo('template_url')."/sliders/cycle/jquery.cycle.all.min.js", array('jquery'), '2.86', false);
