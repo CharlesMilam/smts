@@ -30,14 +30,6 @@ add_action('wp_print_styles', 'my_init_styles');
 function my_init_scripts() {
     if( !is_admin() ){
 	global $cloud_clarity_options, $current_slider;
-	// Load jQuery scripts
-	wp_deregister_script( 'jquery' );
-	wp_register_script( 'jquery', get_bloginfo('template_url')."/scripts/jquery-1.3.2.min.js", false, '' );
-	wp_enqueue_script('jquery');
-
-	// Cufon
-	wp_enqueue_script('cufon_lib', get_bloginfo('template_url')."/scripts/cufon/cufon-yui.js", array('jquery'), '1.09', false);
-	wp_enqueue_script('font_eurofurence', get_bloginfo('template_url')."/scripts/cufon/eurofurence_500-eurofurence_700.font.js", array('cufon_lib'), '1.0', false);
 
 	// swfobject scripts
 	if( $current_slider == '1' )
@@ -439,7 +431,7 @@ if ( function_exists('register_sidebar') ) {
 		'before_title' => '<h3 class="widgettitle">',
 		'after_title' => '</h3>',
 	));
-    
+
 	register_sidebar(array(
 		'name' => 'PortfolioSidebar',
 		'description' => esc_html__('A widget area, used as a sidebar for the Portfolio section.', 'cloud_clarity'),
@@ -569,5 +561,5 @@ if ($cloud_clarity_options['show_breadcrumbs'] == 'yes')
     include( 'scripts/breadcrumbs.php' );
 
 
-    
+
 
