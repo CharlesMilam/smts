@@ -4,19 +4,21 @@
  * @subpackage cloud_clarity
  */
 
-get_header();
+	get_header();
 
 	// Home Page Before Content Widget Area
 	$before_cont_1_is_active = sidebar_exist_and_active('Home Page Before Content');
 	if ( $before_cont_1_is_active  ) : // hide this area if no widgets are active...
 ?>
-	    <div id="before-content-column" class="container_24">
-		<div class="home-page-divider pngfix"></div>
-<?php
+
+<div id="before-content-column" class="container_24">
+	<div class="home-page-divider pngfix"></div>
+
+	<?php
 		if ( $before_cont_1_is_active ) {
-		    eval( '?>' . get_column( 'before-cont-box-1', 'column_3_of_3 home-cont-box', 'Home Page Before Content' ) . '<?php ' );
+	    		eval( '?>' . get_column( 'before-cont-box-1', 'column_3_of_3 home-cont-box', 'Home Page Before Content' ) . '<?php ' );
 		}
-?>
+	?>
 		<div class="home-page-divider pngfix"></div>
 	    </div>
 	    <!-- end before-content-column -->
