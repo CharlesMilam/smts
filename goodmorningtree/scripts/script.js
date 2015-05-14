@@ -4,38 +4,6 @@
 // also helps remove flickering...
 document.documentElement.className += 'js_on';
 
-
-// Add Cufon fonts
-Cufon.set('fontFamily', 'eurofurence');
-Cufon.replace('#slogan', {textShadow:'0 1px #FFF'});
-Cufon.replace('h1', {textShadow:'0 1px #FFF'});
-Cufon.replace('h2:not(.slide-desc h2)', {textShadow:'0 1px #FFF'});
-Cufon.replace('h3:not(.twtr-widget, .slide-desc h2)', {textShadow:'0 1px #FFF'});
-Cufon.replace('h3.bottom-col-title'); // no text shadow
-Cufon.replace('h4:not(.twtr-widget, #bottom .latest_posts h4)', {textShadow:'0 1px #FFF'});
-Cufon.replace('h5', {textShadow:'0 1px #FFF'});
-Cufon.replace('h6', {textShadow:'0 1px #FFF'});
-Cufon.replace('#page-content #page-title h2', {textShadow:'0 1px #000'});
-
-
-jQuery(document).ready(function($){
-  $('p.signup-button a')
-    .css({ 'backgroundPosition': '0 0' })
-    .hover(function(){
-	$(this).stop()
-	  .animate({
-	    'opacity': 0
-	  }, 650);
-	  },
-	  function(){
-	    $(this).stop()
-	      .animate({
-		'opacity': 1
-	      }, 650);
-	  }
-    );
-});
-
 // Scroll to Top script
 jQuery(document).ready(function($){
     $('a[href=#top]').click(function(){
