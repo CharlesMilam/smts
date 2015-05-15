@@ -110,3 +110,25 @@
 .wpcf7 input{
     width:  95%;
 }
+.freeQuote{
+    width: 206px;
+    height: 119px;
+    display: block;
+    background: url("http://www.sidmourningtreeservice.com/wp-content/themes/goodmorningtree/images/quote.png") center top no-repeat;
+    float: right;
+    margin-left: 10px;
+}
+.freeQuote:hover{
+    background-image: url("http://www.sidmourningtreeservice.com/wp-content/themes/goodmorningtree/images/quote_hover.png");
+}
+.onlineSpecial{
+    width: 206px;
+    height: 119px;
+    display: block;
+    background: url("http://www.sidmourningtreeservice.com/wp-content/themes/goodmorningtree/images/quote2.png") center top no-repeat;
+    float: right;
+    margin-left: 10px;
+}
+.onlineSpecial:hover{
+    background-image: url("http://www.sidmourningtreeservice.com/wp-content/themes/goodmorningtree/images/quote2_hover.png");
+}
