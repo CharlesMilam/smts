@@ -41,11 +41,11 @@
 
     <?php wp_head(); ?>
 
-    <style>
+   <!--  /*<style>
         #services{}
         tr #services2{margin-bottom:2px;background:#000;}
         #services2 tr:hover {margin-bottom:2px;background:#fff;}
-    </style>
+    </style>*/ -->
 
     <!--[if IE 6]>
         <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/styles/common-css/ie6.css" media="screen" type="text/css" />
@@ -130,20 +130,6 @@
                 <a id="btn_8" href="<?php bloginfo('wpurl'); ?>/contact-us" title="Contact Us">
                     CONTACT US
                 </a>
-            </div>
-
-            <div class="nav-extra">
-                <?php	if( $cloud_clarity_options['show_login_link_in_menu'] ) : ?>
-                    <div class="nav-login"><?php wp_loginout(); ?></div>
-                <?php	endif; ?>
-
-                <?php	if( $cloud_clarity_options['show_rss_link_in_menu'] ) : ?>
-                    <div class="nav-rss">
-                        <a href="<?php bloginfo('rss2_url'); ?>" title="<?php esc_attr_e('Entries (RSS)', 'cloud_clarity'); ?>">
-                            <img src="<?php bloginfo('template_url'); ?>/styles/common-images/rss_16.png" alt="RSS" border="0" width="16" height="16" />
-                        </a>
-                    </div>
-                <?php	endif; ?>
             </div>
         </div>
         <!-- end dropdown-holder -->

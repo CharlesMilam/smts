@@ -4,6 +4,9 @@
  * @subpackage cloud_clarity
  */
 
+// remove scripts and css from head for emoji support
+remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
+remove_action( 'wp_print_styles', 'print_emoji_styles' );
 
 // Create Text Domain For the Themes' Translations
 if (function_exists('load_theme_textdomain')) {
