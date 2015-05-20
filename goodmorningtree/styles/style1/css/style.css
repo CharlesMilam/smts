@@ -132,3 +132,21 @@
 .onlineSpecial:hover{
     background-image: url("http://www.sidmourningtreeservice.com/wp-content/themes/goodmorningtree/images/quote2_hover.png");
 }
+.dayOfChecklist{
+    width: 206px;
+    height: 119px;
+    display: block;
+    background: url("http://www.sidmourningtreeservice.com/wp-content/themes/goodmorningtree/images/dayofservice.png") center top no-repeat;
+    float: right;
+    margin-left: 10px;
+}
+.dayOfChecklist:hover{
+    /*background-image: url("http://www.sidmourningtreeservice.com/wp-content/themes/goodmorningtree/images/dayofservice.png") center top no-repeat;*/
+    opacity: 0.75;
+}
+a {
+  color: #1D9809;
+}
+a:hover{
+  color: #2A7522;
+}
