@@ -145,41 +145,62 @@ if ( !$bottom_1_is_active && !$bottom_2_is_active && !$bottom_3_is_active && $bo
 <!-- Begin scripts -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-<!-- Google Code for Remarketing Tag (original) -->
+<!-- Google Code for Remarketing Tag -->
+<!-- LogicalPosition -->
 <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 975192608;
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
+/* <![CDATA[ */
+var google_conversion_id = 965148379;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
-
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
 <noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/975192608/?value=0&amp;guid=ON&amp;script=0"/>
-    </div>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/965148379/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
 </noscript>
 
-<!-- Google Code for Remarketing Tag (Katie 2.0) -->
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 968562111;
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
+<!-- VoiceStar code -->
+<!-- LogicalPosition -->
+<!-- start number replacer -->
+
+<script type="text/javascript"><!--
+
+vs_account_id      = "CtjSZVOXgHlCcwDs";
+
+//--></script>
+
+<script type="text/javascript" src="//adtrack.voicestar.com/euinc/number-changer.js">
+
 </script>
 
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<!-- end ad widget -->
 
-<noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968562111/?value=0&amp;guid=ON&amp;script=0"/>
-    </div>
-</noscript>
+<!-- Google Analytics - SidMourning -->
+<script>
 
-<!-- Google Analytics -->
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-63168544-1', 'auto');
+
+  ga('send', 'pageview');
+
+
+
+</script>
+<!-- End SidMourning GA -->
+
+<!-- Google Analytics - Good Morning Tree -->
 <?php echo $cloud_clarity_options['google_analaytics']; ?>
     <script type="text/javascript">
         var _gaq = _gaq || [];
