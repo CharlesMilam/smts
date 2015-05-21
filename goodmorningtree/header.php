@@ -41,11 +41,11 @@
 
     <?php wp_head(); ?>
 
-   <!--  /*<style>
+    <style>
         #services{}
         tr #services2{margin-bottom:2px;background:#000;}
         #services2 tr:hover {margin-bottom:2px;background:#fff;}
-    </style>*/ -->
+    </style>
 
     <!--[if IE 6]>
         <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/styles/common-css/ie6.css" media="screen" type="text/css" />
